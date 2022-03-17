@@ -1,0 +1,29 @@
+{
+  "name": "webrtc_iguess",
+  "version": "0.0.1",
+  "description": "wehrtc backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manash-sth/webrtc_iguess.git"
+  },
+  "author": "ManashPrajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manash-sth/webrtc_iguess/issues"
+  },
+  "homepage": "https://github.com/Manash-sth/webrtc_iguess#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15"
+  }
+}
